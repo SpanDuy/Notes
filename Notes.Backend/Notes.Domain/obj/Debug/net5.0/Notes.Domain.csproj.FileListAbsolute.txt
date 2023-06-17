@@ -1,0 +1,12 @@
+C:\Users\user\Stil\Notes\Notes-main\Notes.Backend\Notes.Domain\bin\Debug\net5.0\Notes.Domain.deps.json
+C:\Users\user\Stil\Notes\Notes-main\Notes.Backend\Notes.Domain\bin\Debug\net5.0\Notes.Domain.dll
+C:\Users\user\Stil\Notes\Notes-main\Notes.Backend\Notes.Domain\bin\Debug\net5.0\Notes.Domain.pdb
+C:\Users\user\Stil\Notes\Notes-main\Notes.Backend\Notes.Domain\obj\Debug\net5.0\Notes.Domain.csproj.AssemblyReference.cache
+C:\Users\user\Stil\Notes\Notes-main\Notes.Backend\Notes.Domain\obj\Debug\net5.0\Notes.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Stil\Notes\Notes-main\Notes.Backend\Notes.Domain\obj\Debug\net5.0\Notes.Domain.AssemblyInfoInputs.cache
+C:\Users\user\Stil\Notes\Notes-main\Notes.Backend\Notes.Domain\obj\Debug\net5.0\Notes.Domain.AssemblyInfo.cs
+C:\Users\user\Stil\Notes\Notes-main\Notes.Backend\Notes.Domain\obj\Debug\net5.0\Notes.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Stil\Notes\Notes-main\Notes.Backend\Notes.Domain\obj\Debug\net5.0\Notes.Domain.dll
+C:\Users\user\Stil\Notes\Notes-main\Notes.Backend\Notes.Domain\obj\Debug\net5.0\refint\Notes.Domain.dll
+C:\Users\user\Stil\Notes\Notes-main\Notes.Backend\Notes.Domain\obj\Debug\net5.0\Notes.Domain.pdb
+C:\Users\user\Stil\Notes\Notes-main\Notes.Backend\Notes.Domain\obj\Debug\net5.0\ref\Notes.Domain.dll

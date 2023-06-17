@@ -1,0 +1,210 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #333;
+  color: #fff;
+  font-weight: 300;
+}
+
+.header {
+  background-color: #222;
+  padding: 25px 100px;
+  font-weight: 600;
+}
+
+.Login {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+
+  font-size: 24px;
+}
+
+.Logout {
+  position: absolute;
+  top: 40px;
+  right: 10px;
+
+  font-size: 24px;
+}
+
+.Login:hover,
+.Logout:hover{
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.notes {
+  margin: 50px 100px;
+  width: 50%;
+  float: left;
+}
+
+.create-note {
+  width: 80%;
+  margin-top: 50px;
+  margin-left: 5%;
+  float: left;
+}
+
+.note {
+  width: 90%;
+  height: 60px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin: 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  transition: transform 500ms ease;
+
+  background-color: #3e8fa0;
+}
+
+.note:hover {
+  transform:scale(1.01);
+}
+
+.icon {
+  padding-left: 10px;
+  padding-top: 5px;
+}
+
+.delete-icon {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-left: 0%;
+
+  cursor: pointer;
+  margin-bottom: 0px;
+  margin-left: 17px;
+  margin-right: 0%;
+  margin-top: 0px;
+  width: 36px;
+  background-color: #3e8fa0;
+  transform: scale(2);
+  transition: transform 500ms ease;
+}
+
+.edit-icon {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-left: 0%;
+
+  cursor: pointer;
+  margin-bottom: 0px;
+  margin-left: 17px;
+  margin-top: 35px;
+  width: 36px;
+  background-color: #3e8fa0;  
+  transform: scale(2);
+  transition: transform 500ms ease;
+}
+
+
+.delete-icon:hover,
+.edit-icon:hover {
+  transform:scale(2.2);
+}
+
+.container {
+  margin-top: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+}
+
+.only-title {
+  padding: 20px;
+}
+
+.note-details {
+  height: 160px;
+  padding: 20px;
+
+  background-color: #3e8fa0;  
+}
+
+.note-edit {
+  height: 180px;
+  padding: 20px;
+  margin-bottom: 40px;
+
+  background-color: #3e8fa0;  
+}
+
+.tab {
+  padding-bottom: 120px;
+}
+
+.creation-date {
+  float: right;
+
+  width: 45%;
+  margin: 5px;
+
+  text-align: right;
+  font-size: 14px;
+  color: #134b57;
+}
+
+.edit-date {
+  float: left;
+
+  width: 45%;
+  margin: 5px;
+
+  text-align: left;
+  font-size: 14px;
+  color: #165664;
+}
+
+.add-notes {
+  width: 30%;
+  margin-top: 70px;
+  margin-right: 50px;
+  float: right;
+}
+
+.title-input,
+.details-input,
+.add-button,
+.edit-button {
+  width: 90%;
+  padding: 15px 5%;
+  font-weight: 300;
+  margin-bottom: 10px;
+  border: 0;
+  background-color: #222;
+  color: #fff;
+  outline: none;
+  font-size: 15px;
+}
+
+.add-button {
+  width: 100%;
+  cursor: pointer;
+  transition: transform 500ms ease;
+}
+
+.add-button:hover {
+  transform:scale(1.1);
+}
+
+.edit-button {
+  width: 100%;
+  cursor: pointer;
+  transition: transform 500ms ease;
+}
+
+.edit-button:hover {
+  transform:scale(1.01);
+}
